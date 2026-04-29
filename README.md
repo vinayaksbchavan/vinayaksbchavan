@@ -20,13 +20,13 @@ AI Engineer passionate about **LLM-integrated systems** and **production ML**. M
 
 Building end-to-end: from Gemini API + LLaMA prompting → multimodal RAG pipelines → FastAPI backends → interactive dashboards. 
 
-**Fresh perspective, production mindset.**
+**Fresh perspective, shipped systems mindset.**
 
 ---
 
 ## 🔥 Featured Projects
 
-### 1. **Krishi AI** — LLM-Powered AgriTech Chatbot  
+### 1. **Krishi AI** — Intelligent Farming Assistant  
 *Intelligent farming assistant for Indian farmers*
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
@@ -45,14 +45,14 @@ Building end-to-end: from Gemini API + LLaMA prompting → multimodal RAG pipeli
 ---
 
 ### 2. **RAG Document Assistant** — Multimodal Q&A System  
-*Chat with any document — PDFs, DOCX, XLSX, PPTX*
+*Chat with any document — PDFs, DOCX*
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-MultiModal-FF6B35?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-5%20Endpoints-009688?style=flat-square&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-OCR%20%2B%20Parsing-3776AB?style=flat-square&logo=python)
 
 **What it does:**
-- Auto-detects 6 document types (PDF, DOCX, XLSX, PPTX, images, web)
+- Auto-detects 6 document types (PDF, DOCX, images)
 - Multimodal RAG with PyMuPDF extraction + pytesseract OCR fallback
 - Smart table parsing (pdfplumber) + reflective query engine
 - In-memory caching + hierarchical map-reduce summaries
@@ -62,6 +62,16 @@ Building end-to-end: from Gemini API + LLaMA prompting → multimodal RAG pipeli
 ---
 
 ## 📊 Tech Stack
+
+### 🤖 AI Development Tools
+![Claude](https://img.shields.io/badge/Claude-Anthropic-4A90E2?style=flat-square&logo=anthropic)
+![Cursor](https://img.shields.io/badge/Cursor-AI%20IDE-00D9FF?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Terminal-4A90E2?style=flat-square&logo=anthropic)
+![Claude App](https://img.shields.io/badge/Claude%20App-Desktop-4A90E2?style=flat-square&logo=anthropic)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-Integration-4A90E2?style=flat-square&logo=anthropic)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Research%20%2F%20Ideation-00A67E?style=flat-square&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-API%20Integration-4285F4?style=flat-square&logo=google)
+![Grok](https://img.shields.io/badge/Grok-Analysis-000000?style=flat-square)
 
 ### 🤖 AI & LLMs
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-Google-4285F4?style=flat-square&logo=google)
@@ -111,14 +121,15 @@ Building end-to-end: from Gemini API + LLaMA prompting → multimodal RAG pipeli
 
 ---
 
-## 📈 GitHub Snapshot
+## 📈 Focus Areas
 
-- **74** repositories (projects, learning, experiments)
-- **Focus:** LLM integration, ML pipelines, full-stack systems
-- **Recent:** RAG Assistant (in progress), Krishi AI (production)
-- **Languages:** Python, JavaScript, SQL
+- **LLM Integration** → Gemini API, prompt engineering, fallback systems
+- **ML Pipelines** → XGBoost, Random Forest, feature engineering
+- **Data Analytics** → SQL, Pandas, dashboards
+- **Full-Stack Systems** → FastAPI backends + interactive dashboards
+- **Current Projects:** RAG Assistant (in progress), Krishi AI (shipped)
 
-*[View full stats](https://github.com/vinayaksbchavan)*
+*[Explore repositories](https://github.com/vinayaksbchavan)*
 
 ---
 
